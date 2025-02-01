@@ -2,6 +2,9 @@
 
 This project implements a self-balancing ball-and-beam system using computer vision, PID control, and stepper motor actuation. The system uses a Python script to track the position of a red ball on a beam and sends control signals to an Arduino Uno, which adjusts the beam's angle to maintain balance.
 
+![Ball and Beam Setup](Images.jpg)
+
+
 ## Overview
 
 The system achieves balance by:
